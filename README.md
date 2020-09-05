@@ -1,4 +1,4 @@
-This is testing of .md file to learn and undertsand
+This is testing of .md file to learn and understand
 
 
 Examples
@@ -32,7 +32,7 @@ Headers & Quotes
 
 # Structured documents
 
-soemtimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
 ### This is a third-tier heading
 
@@ -144,3 +144,13 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
+### Tables
+
+First Header | Second Header
+-------------|--------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+### Strikethrough
+
+Any word wrapped with two tildes (like ~~this~~ ) will appear crossed out
